@@ -1,0 +1,42 @@
+<!--
+  ~ Copyright 2017 Google Inc. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">AccelAccess</string>
+    <string name="message_seekbar">Setting Seekbar max to %d sec</string>
+    <string name="play">Play</string>
+    <string name="main_instructions">Tap to choose a page. \n\n\nLong press to navigate to that page.</string>
+    <string name="music_instructions">Tap \"PLAY\" to play music. \nTap again to pause. \nTap and hold to reset.</string>
+    <string name="call">Choose a contact</string>
+    <string name="mom">Mathy</string>
+    <string name="dad">Dad</string>
+    <string name="caretaker">Caretaker</string>
+    <string name="welcome">Welcome to AccelAccess!</string>
+    <string name="call_instructions">Tap to choose a contact. \nLong press to call the contact.</string>
+    <string name="text_instructions">Tap to choose a contact. \nLong press to text the contact.</string>
+    <string name="message">Please pick me up from school.</string>
+    <string name="settings_instructions">Tap the gear icon to set the gesture or voice command for each operation.</string>
+    <string name="select">Select</string>
+    <string name="select_description">When this operation is carried out, the current choice will be selected.</string>
+    <string name="next_screen">Next Screen</string>
+    <string name="nextscreen_description">When this operation is carried out, the app will navigate to the next choice or next screen.</string>
+    <string name="previous_screen">Previous Screen</string>
+    <string name="previousscreen_description">When this operation is carried out, the app will navigate to the previous choice or previous screen.</string>
+    <string name="record">Record Audio</string>
+    <string name="record_description">When this operation is carried out, the app will begin recording audio.</string>
+    <string name="test_instructions">Tap to look through answer choices. \nLong press to select the answer choice.</string>
+    <string name="a">B</string>
+</resources>
